@@ -1,1 +1,5 @@
 This repo contains resources of two year Master in [Artificial Intelligence](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html) at the [University of Bologna](https://www.unibo.it/en) during 2025-2027.
+
+First year courses:
+
+- [SMM - Statistical Methods for Machine Learning](smm/README.md)
